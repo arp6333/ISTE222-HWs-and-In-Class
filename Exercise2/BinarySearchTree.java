@@ -1,10 +1,9 @@
-import java.util.Arrays;
 /**
 * Ellie Parobek
 * ISTE222.01S2
 * Exercise 2 - Binary Search Trees
 */
-
+import java.util.Arrays;
 
 class Node {
    Node left;
